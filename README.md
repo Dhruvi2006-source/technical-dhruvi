@@ -79,20 +79,7 @@ I enjoy bringing ideas to life through code, and I'm always excited to take on n
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruvi2006-source&show_icons=true&include_all_commits=true&count_private=true&title_color=F97316&icon_color=F97316&text_color=333333&bg_color=FFFFFF&border_color=F97316&border_radius=10" alt="Dhruvi's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvi2006-source&layout=compact&langs_count=7&title_color=F97316&text_color=333333&bg_color=FFFFFF&border_color=F97316&border_radius=10" alt="Top Languages"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Dhruvi2006-source&theme=minimal&ring=F97316&fire=F97316&currStreakLabel=F97316&sideNums=333333&sideLabels=F97316&dates=888888&border=F97316&border_radius=10" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvi2006-source&theme=flat&column=6&margin-w=8&margin-h=8&no-bg=true&title_color=F97316&no-frame=false" alt="GitHub Trophies" />
 </div>
 
 ---
