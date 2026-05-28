@@ -1,6 +1,9 @@
 ```md
 <h1 align="center">Hi 👋, I'm Dhruvi Patel</h1>
-<h3 align="center">Freelance Web Developer • Full Stack Developer</h3>
+
+<h3 align="center">
+Freelance Web Developer • Full Stack Developer
+</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=F59E0B&center=true&vCenter=true&lines=Freelance+Web+Developer;Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Applications" />
@@ -12,17 +15,17 @@
 
 💻 Freelance Web Developer & Full Stack Developer
 
-🌐 I build **modern websites**, **business platforms**, and **full stack web applications**.
+🌐 Building modern, responsive & scalable web applications.
 
-✨ Passionate about creating **clean UI**, **responsive experiences**, and **scalable backend systems**.
+✨ Passionate about clean UI, strong backend systems & great user experiences.
 
-🌱 Currently learning **Web Automation**
+🌱 Currently Learning: **Web Automation**
 
-⚡ Turning ideas into fast, beautiful & functional digital products.
+⚡ Open for freelance collaborations & exciting projects.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 
@@ -34,7 +37,7 @@
 
 ![React](https://img.shields.io/badge/React-orange?style=for-the-badge&logo=react&logoColor=white)
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-orange?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-orange?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend
 
@@ -54,9 +57,9 @@
 
 ✅ API Integration
 
-✅ UI/UX Implementation
+✅ UI / UX Development
 
-✅ Responsive & Modern Web Design
+✅ Responsive Design
 
 ---
 
@@ -64,9 +67,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Technical-Dhruvi&show_icons=true&theme=default&title_color=F59E0B&icon_color=F59E0B" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dhruvi2006-source&show_icons=true&theme=default&title_color=F59E0B&icon_color=F59E0B"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Technical-Dhruvi&theme=default&ring=F59E0B&fire=F59E0B" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvi2006-source&theme=default&ring=F59E0B&fire=F59E0B"/>
 
 </p>
 
@@ -76,7 +79,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technical-Dhruvi&layout=compact&theme=default&title_color=F59E0B" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvi2006-source&layout=compact&theme=default&title_color=F59E0B"/>
 
 </p>
 
@@ -84,23 +87,23 @@
 
 ## 🌐 Connect With Me
 
-📧 Email: **technicaldhruvi06@gmail.com**
+📧 **technicaldhruvi06@gmail.com**
 
-🌍 Portfolio: **https://dhruvi-dev.vercel.app/**
+🌍 **Portfolio:** https://dhruvi-dev.vercel.app/
 
-💼 LinkedIn: **https://www.linkedin.com/in/technical-dhruvi**
+💼 **LinkedIn:** https://www.linkedin.com/in/technical-dhruvi
 
 ---
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=Technical-Dhruvi&color=orange)
+![](https://komarev.com/ghpvc/?username=Dhruvi2006-source&color=orange)
 
 ---
 
-### ⭐ Open for Freelance Opportunities
+### ⭐ Available For Freelance Work
 
-Need a modern website or web app?
+Need a modern website, business platform, or full stack application?
 
-Let's collaborate 🚀
+Let's build something amazing 🚀
 ```
