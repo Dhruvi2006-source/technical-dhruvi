@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Dhruvi Patel</h1>
 
 <h3 align="center">
@@ -45,6 +45,7 @@ Freelance Web Developer • Full Stack Developer
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-orange?style=for-the-badge&logo=mongodb&logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ## 💼 Freelance Services
@@ -63,23 +64,26 @@ Freelance Web Developer • Full Stack Developer
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhruvi2006-source&show_icons=true&theme=default&title_color=F59E0B&icon_color=F59E0B"/>
+<img height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhruvi2006-source&show_icons=true&theme=default&hide_border=true&title_color=F59E0B&icon_color=F59E0B"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvi2006-source&theme=default&ring=F59E0B&fire=F59E0B"/>
+<img height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhruvi2006-source&layout=compact&theme=default&hide_border=true&title_color=F59E0B"/>
 
 </p>
 
+
 ---
 
-## 💻 Top Languages
+### 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvi2006-source&layout=compact&theme=default&title_color=F59E0B"/>
+<img src="https://streak-stats.demolab.com?user=Dhruvi2006-source&theme=default&hide_border=true&ring=F59E0B&fire=F59E0B"/>
 
 </p>
 
@@ -106,4 +110,3 @@ Freelance Web Developer • Full Stack Developer
 Need a modern website, business platform, or full stack application?
 
 Let's build something amazing 🚀
-```
