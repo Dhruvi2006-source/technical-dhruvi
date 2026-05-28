@@ -8,4 +8,4 @@
 
 💬 Ask me about: HTML, CSS, JavaScript
 
-📫 Reach me: technicaldhruvi06@email.com
+📫 Reach me: technicaldhruvi06@gmail.com
