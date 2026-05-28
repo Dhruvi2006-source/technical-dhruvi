@@ -1,4 +1,4 @@
-# Hi 👋, I'm Your Name
+# Hi 👋, I'm Dhruvi Patel
 
 ### Freelance Web Developer
 
@@ -8,4 +8,4 @@
 
 💬 Ask me about: HTML, CSS, JavaScript
 
-📫 Reach me: your@email.com
+📫 Reach me: technicaldhruvi06@email.com
