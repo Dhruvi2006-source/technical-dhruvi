@@ -1,56 +1,42 @@
-
-<h1 align="center">✨ Dhruvi Patel ✨</h1>
-
-<p align="center">
-  <strong>Freelance Web Developer • Full Stack Developer • India 🇮🇳</strong>
-</p>
-
-<p align="center">
-Turning ideas into modern, scalable & beautiful web experiences.
-</p>
-
----
+```md id="professional-readme"
 
 <div align="center">
 
-### 👋 Hey, I'm Dhruvi
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:F97316,100:EA580C&text=Dhruvi%20Patel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20Web%20Developer%20|%20Full%20Stack%20Developer%20|%20India%20🇮🇳&descAlignY=58&descSize=16" />
 
-💻 Freelance Web Developer  
-🚀 Full Stack Developer  
-🎨 UI/UX Lover  
-🌙 Midnight Coder
+</div>
+
+<h3 align="center">
+Building modern, scalable and user-focused web experiences.
+</h3>
+
+<div align="center">
+
+[Portfolio](https://dhruvi-dev.vercel.app) •
+[LinkedIn](https://www.linkedin.com/in/technical-dhruvi) •
+[Email](mailto:technicaldhruvi06@gmail.com)
 
 </div>
 
 ---
 
-# ⚡ About Me
+## About Me
 
-```yaml
-name: Dhruvi Patel
-role: Freelance Full Stack Developer
-location: India 🇮🇳
+I'm **Dhruvi Patel**, a passionate **Freelance Web Developer** and **Full Stack Developer** focused on building clean, performant, and user-friendly digital products.
 
-currently_working_on:
-  - Freelance Projects
-  - Client Websites
+I enjoy transforming ideas into responsive, scalable applications while maintaining strong attention to UI quality, performance, and developer experience.
 
-currently_learning:
-  - Web Automation 🤖
+### Current Focus
 
-available_for:
-  - Freelance Work
-  - Collaborations
-
-fun_facts:
-  - Pixel Perfect UI Addict 🎨
-  - Night Owl Developer 🌙
-  - Powered by Chai + Code ☕
-````
+- 🔭 Building **freelance web projects & client solutions**
+- 🌱 Exploring **Web Automation & advanced workflows**
+- 🤝 Open to **freelance opportunities** and **collaborations**
+- 🎨 Passionate about **minimal, pixel-perfect interfaces**
+- ☕ Powered by **chai, curiosity & caffeine**
 
 ---
 
-# 🛠 Tech Arsenal
+## Tech Stack
 
 ### Frontend
 
@@ -64,7 +50,7 @@ fun_facts:
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Tools & Platforms
+### Tools & Workflow
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma" />
@@ -72,51 +58,65 @@ fun_facts:
 
 ---
 
-# 💼 Services
+## Services
 
-| Service              | Description                       |
-| -------------------- | --------------------------------- |
-| 🚀 Landing Pages     | High-converting responsive pages  |
-| 🏢 Business Websites | Professional brand websites       |
-| ⚙️ Web Applications  | Custom scalable applications      |
-| 🔌 API Integration   | Seamless third-party integrations |
-| 🎨 UI/UX Design      | Clean & intuitive interfaces      |
-| 🌐 Full Stack Apps   | Complete end-to-end development   |
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dhruvi2006-source&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvi2006-source&theme=tokyonight&hide_border=true"/>
-</p>
+| Service | Description |
+|----------|-------------|
+| **Landing Pages** | High-converting, responsive, modern websites |
+| **Business Websites** | Professional web presence for brands & businesses |
+| **Web Applications** | Scalable, custom applications tailored to requirements |
+| **API Integration** | Reliable third-party integrations & automation |
+| **UI/UX Development** | Clean, intuitive, user-focused interfaces |
+| **Full Stack Solutions** | End-to-end development from backend to deployment |
 
 ---
 
-# 🐍 Contribution Snake
+## GitHub Analytics
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Dhruvi2006-source/Dhruvi2006-source/output/github-contribution-grid-snake.svg"/>
-</p>
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dhruvi2006-source&show_icons=true&theme=transparent&hide_border=true&title_color=F97316&icon_color=F97316&text_color=c9d1d9" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvi2006-source&theme=transparent&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316" />
+
+</div>
 
 ---
 
-# 🤝 Connect With Me
+## Contribution Activity
 
-<p align="center">
+<div align="center">
 
-<a href="https://dhruvi-dev.vercel.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/technical-dhruvi">LinkedIn</a> • <a href="mailto:technicaldhruvi06@gmail.com">Email</a> • <a href="https://github.com/Dhruvi2006-source">GitHub</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvi2006-source&theme=github-dark&hide_border=true&line=F97316&point=F97316"/>
 
-</p>
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://dhruvi-dev.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/technical-dhruvi">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:technicaldhruvi06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ "Write code that even future-you will understand."
+*"Write code that even future-you will understand."*
 
 </div>
+
+```
