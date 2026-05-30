@@ -1,4 +1,4 @@
-```md id="professional-readme"
+
 
 <div align="center">
 
@@ -119,4 +119,3 @@ I enjoy transforming ideas into responsive, scalable applications while maintain
 
 </div>
 
-```
