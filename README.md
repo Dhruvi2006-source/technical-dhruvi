@@ -1,7 +1,7 @@
 <!-- ========================= HERO ========================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,E91E8C,50,F48FB1,100,FCE4EC&text=Dhruvi%20Patel&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Turning%20Coffee%20Into%20Code&descAlignY=55&descSize=20&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,C2185B,40,E91E63,75,F8BBD0,100,FCE4EC&text=Dhruvi%20Patel&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Turning%20Coffee%20Into%20Code&descAlignY=55&descSize=20&descColor=ffffff" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=34&pause=1200&color=E91E8C&center=true&vCenter=true&width=850&lines=%E2%9C%A6+Full+Stack+Developer+%E2%9C%A6;%E2%9C%A6+Freelance+Web+Developer+%E2%9C%A6;%E2%9C%A6+Minimul+Precise+Craftship+%E2%9C%A6;%E2%9C%A6+Building+Scalable+Web+Applications+%E2%9C%A6)](https://git.io/typing-svg)
 
